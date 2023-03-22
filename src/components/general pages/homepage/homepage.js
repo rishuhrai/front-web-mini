@@ -73,6 +73,7 @@ const Homepage = () =>{
             <section className="content-section current-campaigns">
                 <div className="container">
                     <div className="row">
+                        
                         <header className="section-header text-center col-md-8 col-md-offset-2">
                             <h3 className="underline">Current Causes</h3>
                             <h4 className="section-intro">Here are our top picks for the day...</h4>
